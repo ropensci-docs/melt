@@ -1,0 +1,11 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  model: model.html
+  performance: performance.html
+last_built: 2024-03-21T02:30Z
+urls:
+  reference: https://docs.ropensci.org/melt/reference
+  article: https://docs.ropensci.org/melt/articles
+

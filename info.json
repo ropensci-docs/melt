@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "51adbf34cf0dcbbed0b7a5357873284b5728db8a",
+    "author": "markean <markean@protonmail.com>",
+    "time": "2024-03-21 01:09:26",
+    "files": 3,
+    "merge": false,
+    "message": "bump to v1.11.2\n"
+  },
+  "repo": "https://github.com/ropensci/melt",
+  "pkg": "melt"
+}
